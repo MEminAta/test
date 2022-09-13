@@ -80,26 +80,10 @@ body {
   padding: 0.75rem 1rem;
 }
 
-.col-md-1 {
-  width: 100px;
-  height: 25px;
-  border: 1px solid;
-  text-align: center;
-}
 
 .tablo {
-  margin-top: 20vh;
-  margin-left: 60vh;
-}
-
-.tablo2 {
-  margin-left: 60vh;
-}
-
-.tablo3{
-  margin-left: 60vh;
-}
-
-.tablo4{
-  margin-left: 60vh;
+  width: 130vh;
+  font-size: 11pt;
+  margin-top: 30vh;
+  margin-left: 50vh;
 }
